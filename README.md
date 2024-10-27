@@ -1,6 +1,6 @@
 
 
-#### 👋 Hi There
+## 👋 Hi There
 
 I'm Shawn Ru, here’s a bit about me:
 
@@ -10,7 +10,7 @@ I'm Shawn Ru, here’s a bit about me:
 
 
 
-#### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -20,7 +20,7 @@ I'm Shawn Ru, here’s a bit about me:
 
 
 
-#### 📈 My Stats
+## 📈 My Stats
 
 <img src="https://streak-stats.demolab.com/?user=R10836&theme=transparent&hide_border=true&ring=003F88&fire=003F88&currStreakLabel=003F88&sideLabels=003F88&dates=000000&stroke=B01F24" width="400" height="165"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=R10836&layout=compact&bg_color=00000000&text_color=003F88&hide_border=true" width="400" height="165" />
 
@@ -35,16 +35,18 @@ I'm Shawn Ru, here’s a bit about me:
 
 
 
-#### 🧑‍💻 Projects
+## 🧑‍💻 Projects
 
 Pined.
 
 
 
-#### 📫 Contact me
+## 📫 Contact me
 
 [Mail](mailto:rushawn818@gmail.com) or [Telegram](https://t.me/SubXray)
 
 
 
-#### ✨ Thanks for visiting my profile! ✨
+---
+
+✨ _Last updated on October 27, 2024_ ✨
