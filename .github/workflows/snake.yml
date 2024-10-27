@@ -22,7 +22,7 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Upload GitHub Snake Animation
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3  # 更新为 v3
         with:
           name: github-snake
           path: dist/github-snake.svg
