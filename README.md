@@ -43,7 +43,7 @@ Pined.
 
 #### 📫 Contact me
 
-[Email](rushawn818@gmail.com) or [TG](https://t.me/SubXray)
+[Email me](mailto:rushawn818@gmail.com) or [via Telegram](https://t.me/SubXray)
 
 
 
