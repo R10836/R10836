@@ -20,12 +20,6 @@ I'm Shawn Ru, here’s a bit about me:
 
 
 
-#### 🧑‍💻 Projects
-
-Pined.
-
-
-
 #### 📈 My Stats
 
 <img src="https://streak-stats.demolab.com/?user=R10836&theme=transparent&hide_border=true&ring=003F88&fire=003F88&currStreakLabel=003F88&sideLabels=003F88&dates=000000&stroke=B01F24" width="400" height="165"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=R10836&layout=compact&bg_color=00000000&text_color=003F88&hide_border=true" width="400" height="165" />
@@ -38,6 +32,12 @@ Pined.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/R10836/R10836/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/R10836/R10836/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+
+#### 🧑‍💻 Projects
+
+Pined.
 
 
 
