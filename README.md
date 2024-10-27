@@ -1,4 +1,4 @@
-English | [中文](./README-zh.md)
+English | [简体中文](./README-zh.md)
 
 # 👋 Hi there
 
