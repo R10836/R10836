@@ -5,7 +5,6 @@
 I'm Shawn Ru, here’s a bit about me:
 
 - 🎓 **Currently**: M.S. Candidate at [Zhejiang University](https://www.zju.edu.cn), with a B.S. from [Central South University](https://www.csu.edu.cn)
-- 🚀 **Affiliated with**: [Knowledge Engine Lab (ZJUNLP)](https://github.com/zjunlp): A NLP & KG Group of Zhejiang University
 - 🌱 **Research Interests**: NLP, LLMs, Agents, and other advanced fields in AI
 - 🌟 **Eager to Contribute**: Any **Research** or **development projects** pushing the boundaries of AI
 
