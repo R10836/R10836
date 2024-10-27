@@ -1,16 +1,16 @@
-
-
-## 👋 Hi There
+# 👋 Hi there
 
 I'm Shawn Ru, here’s a bit about me:
 
-- 🎓 **Currently**: M.S. Candidate at [Zhejiang University](https://www.zju.edu.cn), with a B.S. from [Central South University](https://www.csu.edu.cn)
+- 🎓 **Education**: M.S. Candidate at [Zhejiang University](https://www.zju.edu.cn), with a B.S. from [Central South University](https://www.csu.edu.cn)
+- 🚀 **Affiliated**: 
+- 💼 **Internship**: 
 - 🌱 **Research Interests**: NLP, LLMs, Agents, and other advanced fields in AI
 - 🌟 **Eager to Contribute**: Any **Research** or **development projects** pushing the boundaries of AI
 
 
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Stack
 
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -26,7 +26,7 @@ I'm Shawn Ru, here’s a bit about me:
 
 
 
-<!-- GitHub Contributions Snake Animation -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/R10836/R10836/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/R10836/R10836/output/github-contribution-grid-snake.svg">
@@ -35,7 +35,7 @@ I'm Shawn Ru, here’s a bit about me:
 
 
 
-## 🧑‍💻 Projects
+## 🧑‍💻 My Projects
 
 Pined.
 
@@ -49,4 +49,4 @@ Pined.
 
 ---
 
-✨ _Last updated on October 27, 2024_ ✨
+✨ **Last updated**: _Oct 27, 2024_ ✨
