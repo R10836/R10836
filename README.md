@@ -1,10 +1,8 @@
-English | [简体中文](./README-zh.md)
-
 # 👋 Hi there
 
 I'm Shawn Ru, here’s a bit about me:
 
-- 🎓 **Education**: M.S. Candidate at [Zhejiang University](https://www.zju.edu.cn), with a B.S. from [Central South University](https://www.csu.edu.cn)
+- 🎓 **Education**: M.S. Candidate at [Zhejiang University](https://www.zju.edu.cn)
 - 🌱 **Research Interests**: NLP, LLMs, Agents, and other advanced fields in AI
 - 🌟 **Eager to Contribute**: Any **Research** or **development projects** pushing the boundaries of AI
 
