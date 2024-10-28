@@ -2,19 +2,22 @@
 
 I'm Shawn Ru, here’s a bit about me:
 
-- 🎓 **Education**: M.S. Candidate at [Zhejiang University](https://www.zju.edu.cn)
-- 🌱 **Research Interests**: NLP, LLMs, Agents, and other advanced fields in AI
-- 🌟 **Eager to Contribute**: Any **Research** or **development projects** pushing the boundaries of AI
+- 🎓 **Education**: M.S. Candidate at Zhejiang University
+- 🔍 **Interests**: NLP, LLMs, Agents, and other advanced fields in AI
+- 🚀 **Aspiration**: Any **research** or **development projects** pushing the boundaries of AI
 
 
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Transformers](https://img.shields.io/badge/-Transformers-FCC624?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/-OpenAI-00A67E?style=flat-square&logo=openai&logoColor=white)
 ![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD700?style=flat-square&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 
 
@@ -30,12 +33,6 @@ I'm Shawn Ru, here’s a bit about me:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/R10836/R10836/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/R10836/R10836/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-
-## 🧑‍💻 My Projects
-
-Pined.
 
 
 
