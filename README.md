@@ -23,7 +23,7 @@ I'm Shawn Ru, here’s a bit about me:
 
 ## 📈 My Stats
 
-<img src="https://streak-stats.demolab.com/?user=R10836&theme=transparent&hide_border=true&ring=003F88&fire=003F88&currStreakLabel=003F88&sideLabels=003F88&dates=000000&stroke=B01F24" width="400" height="165"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=R10836&layout=compact&bg_color=00000000&text_color=003F88&hide_border=true" width="400" height="165" />
+<img src="https://streak-stats.demolab.com/?user=R10836&theme=transparent&hide_border=true&ring=003F88&fire=003F88&currStreakLabel=B01F24&sideLabels=B01F24&dates=003F88&stroke=orange" width="400" height="165">  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=R10836&layout=compact&bg_color=00000000&text_color=003F88&hide_border=true" width="400" height="165" />
 
 
 
