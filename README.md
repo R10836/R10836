@@ -44,4 +44,4 @@ I'm Shawn Ru, here’s a bit about me:
 
 ---
 
-✨ **Last updated**: _Oct 27, 2024_ ✨
+✨ **Last main updated**: _Oct 2024_ ✨
