@@ -38,7 +38,7 @@ I'm Shawn Ru, here’s a bit about me:
 
 ## 📫 Contact me
 
-[Mail](mailto:rushawn818@gmail.com) or [Telegram](https://t.me/SubXray)
+[Mail](mailto:rushawn818@gmail.com) or [Telegram](https://t.me/SubXray "_blank")
 
 
 
