@@ -3,7 +3,7 @@
 I'm Shawn Ru, here’s a bit about me:
 
 - 🏫 **Education**: M.S. Candidate at Zhejiang University
-- 🎯 **Interests**: NLP, LLMs, Agents, and other advanced fields in AI
+- 🎯 **Interests**: LLMs, Agent, and other advanced fields in AI
 - 🔭 **Aspiration**: Any research or projects pushing the boundaries of AI
 
 ## 🛠️
