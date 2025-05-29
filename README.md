@@ -2,20 +2,22 @@
 
 I'm Shawn Ru, here’s a bit about me:
 
-- 🏫 **Education**: M.S. Candidate at Zhejiang University
-- 🎯 **Interests**: LLMs, Agent, and other advanced fields in AI
-- 🔭 **Aspiration**: Any research or projects pushing the boundaries of AI
+- 🎓  M.S. Candidate at Zhejiang University
+- 🔎  LLMs, Agent, and other advanced fields in AI
+- 🎯  Any research or projects pushing the boundaries of AI
 
 ## 🛠️
 
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Transformers](https://img.shields.io/badge/-Transformers-FCC624?style=flat-square&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/-OpenAI-00A67E?style=flat-square&logo=openai&logoColor=white)
-![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-8A1E00?style=for-the-square&logo=ubuntu&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-FF3F00?style=for-the-square&logo=pytorch&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-F7931E?style=for-the-square&logo=anthropic&logoColor=white)
+![Transformers](https://img.shields.io/badge/-Transformers-FCC624?style=for-the-square&logo=huggingface&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-39B088?style=for-the-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-007D83?style=for-the-square&logo=langchain&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-1565C0?style=for-the-square&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-1A0033?style=for-the-square&logo=ollama&logoColor=white)
+
 
 ## 📈
 
@@ -31,4 +33,4 @@ I'm Shawn Ru, here’s a bit about me:
 
 ---
 
-✨ **Last main updated**: _Oct 2024_ ✨
+✨ **Last main updated**: _May 2025_ ✨
